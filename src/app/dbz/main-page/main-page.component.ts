@@ -1,4 +1,3 @@
-import { DbzService } from './../services/dbz.service';
 import { Component, OnInit } from '@angular/core';
 import { Personaje } from '../interface/dbz.interface';
 
